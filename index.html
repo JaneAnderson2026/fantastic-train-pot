@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>A Story of Success</title>
+
+  <style>
+    :root {
+      --bg-dark: #020617;
+      --bg-soft: #020617;
+      --primary: #38bdf8;
+      --accent: #22c55e;
+      --text-main: #e5e7eb;
+      --text-muted: #9ca3af;
+      --card-bg: rgba(255, 255, 255, 0.04);
+      --border-soft: rgba(255, 255, 255, 0.08);
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    body {
+      background: linear-gradient(180deg, #020617, #020617);
+      color: var(--text-main);
+      line-height: 1.7;
+    }
+
+    header {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 2rem;
+      background: radial-gradient(circle at top, #0f172a, #020617);
+    }
+
+    header h1 {
+      font-size: clamp(2.5rem, 5vw, 4rem);
+      font-weight: 800;
+      margin-bottom: 1rem;
+    }
+
+    header h1 span {
+      color: var(--primary);
+    }
+
+    header p {
+      max-width: 720px;
+      margin: auto;
+      font-size: 1.2rem;
+      color: var(--text-muted);
+    }
+
+    section {
+      max-width: 1100px;
+      margin: auto;
+      padding: 4rem 1.5rem;
+    }
+
+    .section-title {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      color: var(--accent);
+    }
+
+    .section-text {
+      max-width: 850px;
+      color: var(--text-main);
+    }
+
+    .timeline {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 1.5rem;
+      margin-top: 2rem;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border-soft);
+      border-radius: 16px;
+      padding: 2rem;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 25px 50px rgba(0, 0, 0, 0.4);
+    }
+
+    .card h3 {
+      color: #bae6fd;
+      margin-bottom: 0.6rem;
+    }
+
+    .card p {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+    }
+
+    .highlight {
+      background: linear-gradient(135deg, #0f172a, #052e16);
+      border-radius: 20px;
+      padding: 3rem 2rem;
+      text-align: center;
+      margin: 4rem auto;
+      max-width: 900px;
+    }
+
+    .highlight p {
+      font-size: 1.5rem;
+      font-style: italic;
+      color: #ecfeff;
+    }
+
+    .highlight span {
+      display: block;
+      margin-top: 1rem;
+      font-size: 0.9rem;
+      color: #a7f3d0;
+    }
+
+    footer {
+      background: #020617;
+      padding: 2rem;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+    }
+
+    footer strong {
+      color: #e0f2fe;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <div>
+      <h1>A Story of <span>Resilience</span></h1>
+      <p>
+        Success is rarely loud at the beginning.  
+        It starts quietly — with persistence, doubt, and a decision not to quit.
+      </p>
+    </div>
+  </header>
+
+  <section>
+    <h2 class="section-title">The Beginning</h2>
+    <p class="section-text">
+      There was no shortcut. No sudden breakthrough. Just long nights, unanswered
+      questions, and a belief that effort would eventually matter. While others
+      saw uncertainty, this journey began with determination.
+    </p>
+  </section>
+
+  <section>
+    <h2 class="section-title">The Journey</h2>
+
+    <div class="timeline">
+      <div class="card">
+        <h3>Failure</h3>
+        <p>
+          Mistakes came early and often. Each setback revealed lessons that
+          discipline and comfort never could.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Consistency</h3>
+        <p>
+          Progress was invisible for a long time. Showing up daily became the real victory.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Growth</h3>
+        <p>
+          Skills sharpened. Confidence grew. What once felt impossible slowly became routine.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <div class="highlight">
+    <p>
+      “Success didn’t change the person — the journey did.”
+    </p>
+    <span>— Proof that persistence compounds</span>
+  </div>
+
+  <section>
+    <h2 class="section-title">The Outcome</h2>
+    <p class="section-text">
+      Today, the results speak quietly but clearly. Not just in achievements,
+      but in discipline, clarity, and the strength to face future challenges.
+      Success became a byproduct — not the goal.
+    </p>
+  </section>
+
+  <footer>
+    <p>
+      <strong>Your story is still being written.</strong><br />
+      Keep going. The effort counts.
+    </p>
+  </footer>
+
+</body>
+</html>
