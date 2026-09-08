@@ -1,0 +1,16 @@
+{
+  "originalUrl": "https://webmail.thegdcgroup.com/",
+  "title": "Roundcube Webmail :: Welcome to Roundcube Webmail",
+  "archiveTime": "2026-07-25T17:19:52.879Z",
+  "indexFilename": "index.html",
+  "resources": {
+    "stylesheet_0.css": "https://webmail.thegdcgroup.com/plugins/jqueryui/themes/larry/jquery-ui.css?s=1646752291",
+    "stylesheet_1.css": "https://webmail.thegdcgroup.com/skins/larry/styles.min.css?s=1646752291",
+    "images/4.ico": "https://webmail.thegdcgroup.com/skins/larry/images/favicon.ico?s=1646752291",
+    "images/5.png": "https://webmail.thegdcgroup.com/skins/larry/images/roundcube_logo.png?s=1646752291",
+    "images/2.png": "https://webmail.thegdcgroup.com/skins/larry/images/overflowshadow.png?v=ac21.201",
+    "images/0.png": "https://webmail.thegdcgroup.com/skins/larry/images/messages_dark.png?v=8e53.601",
+    "images/3.png": "https://webmail.thegdcgroup.com/skins/larry/images/buttons.png?v=2e08.13608",
+    "images/1.gif": "https://webmail.thegdcgroup.com/skins/larry/images/ajaxloader_dark.gif?v=cf1b.1849"
+  }
+}

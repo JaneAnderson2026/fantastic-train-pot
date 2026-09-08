@@ -1,0 +1,31 @@
+{
+  "originalUrl": "https://account.proton.me/mail",
+  "title": "Proton Mail: Sign-in",
+  "archiveTime": "2026-07-24T00:17:10.398Z",
+  "indexFilename": "index.html",
+  "resources": {
+    "fonts/0.woff2": "https://account.proton.me/assets/static/Inter-Regular.85c128721035823e5405.woff2",
+    "fonts/2.woff2": "https://account.proton.me/assets/static/Inter-SemiBold.594041393209f0003754.woff2",
+    "fonts/1.woff2": "https://account.proton.me/assets/static/Inter-Medium.da6143a97b8ed2ae857b.woff2",
+    "fonts/3.woff2": "https://account.proton.me/assets/static/Inter-Bold.54851dc3f5ada849af04.woff2",
+    "fonts/5.woff2": "https://account.proton.me/assets/static/InterVariable-Italic.01dcbad1bac635f9c9cd.woff2",
+    "fonts/4.woff2": "https://account.proton.me/assets/static/InterVariable.c504db5c06caaf7cdfba.woff2",
+    "fonts/8.woff2": "https://account.proton.me/assets/static/OpenDyslexic-Italic.83bf4ce46d74c07c8c8d.woff2",
+    "fonts/6.woff2": "https://account.proton.me/assets/static/OpenDyslexic-Regular.904b03b8ee84dff60d49.woff2",
+    "fonts/10.woff2": "https://account.proton.me/assets/static/OpenDyslexic-Bold.b10b526264214d354893.woff2",
+    "fonts/14.woff2": "https://account.proton.me/assets/static/atkinson-hyperlegible-regular.1cc85c6af6b4d69204e7.woff2",
+    "fonts/18.woff2": "https://account.proton.me/assets/static/atkinson-hyperlegible-bold.473fc83d633440635011.woff2",
+    "fonts/12.woff2": "https://account.proton.me/assets/static/OpenDyslexic-Bold-Italic.d7e13c040d08e47707e2.woff2",
+    "fonts/24.woff2": "https://account.proton.me/assets/static/ABCArizonaFlareVariable.9c6464223ffea3667dd6.woff2",
+    "fonts/16.woff2": "https://account.proton.me/assets/static/atkinson-hyperlegible-italic.0b075f0dec46d204108d.woff2",
+    "fonts/20.woff2": "https://account.proton.me/assets/static/atkinson-hyperlegible-bolditalic.e5f6312ca9bb09c2b33e.woff2",
+    "stylesheet_0.css": "https://account.proton.me/assets/static/PublicAppInteractive.2cd3b459.css",
+    "stylesheet_1.css": "https://account.proton.me/assets/static/public-index.cd407db0.css",
+    "images/22.png": "https://account.proton.me/assets/host.png",
+    "images/23.png": "https://account.proton.me/%61%73%73%65%74%73/%68%6f%73%74%2e%70%6e%67",
+    "images/25.ico": "https://account.proton.me/assets/favicon.ico",
+    "images/38.svg": "https://account.proton.me/assets/static/lumo-cat-icon.88212accab282af071b2.svg",
+    "frames/0/": "https://account-api.proton.me/challenge/v4/html?Type=0&Name=unauth&Lang=en-US&Dir=ltr",
+    "frames/1/": "https://account-api.proton.me/challenge/v4/html?Type=0&Name=login&Lang=en-US&Dir=ltr"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "originalUrl": "https://mail.qnie.com/owa/auth/logon.aspx?url=https%3a%2f%2fmail.qnie.com%2fowa%2f&reason=0",
+  "title": "Outlook",
+  "archiveTime": "2026-07-23T23:48:33.771Z",
+  "indexFilename": "index.html",
+  "resources": {
+    "fonts/1.ttf": "https://mail.qnie.com/owa/auth/15.2.1748/themes/resources/segoeui-regular.ttf",
+    "fonts/3.ttf": "https://mail.qnie.com/owa/auth/15.2.1748/themes/resources/segoeui-semilight.ttf",
+    "fonts/5.ttf": "https://mail.qnie.com/owa/auth/15.2.1748/themes/resources/segoeui-semibold.ttf",
+    "images/6.ico": "https://mail.qnie.com/owa/auth/15.2.1748/themes/resources/favicon.ico"
+  }
+}
