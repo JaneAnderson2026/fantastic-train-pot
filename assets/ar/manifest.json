@@ -1,0 +1,20 @@
+{
+  "originalUrl": "https://webmail.aruba.it/new/auth/login",
+  "title": "Aruba Webmail",
+  "archiveTime": "2026-07-23T10:21:10.955Z",
+  "indexFilename": "index.html",
+  "resources": {
+    "fonts/0.woff2": "https://fonts.gstatic.com/s/lato/v25/S6u_w4BMUTPHjxsI9w2_Gwft.woff2",
+    "fonts/1.woff2": "https://fonts.gstatic.com/s/lato/v25/S6u8w4BMUTPHjxsAXC-q.woff2",
+    "fonts/2.woff2": "https://fonts.gstatic.com/s/lato/v25/S6u_w4BMUTPHjxsI5wq_Gwft.woff2",
+    "fonts/3.woff2": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh7USSwiPGQ.woff2",
+    "fonts/4.woff2": "https://fonts.gstatic.com/s/lato/v25/S6uyw4BMUTPHjx4wXg.woff2",
+    "fonts/5.woff2": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh6UVSwiPGQ.woff2",
+    "stylesheet_10.css": "https://webmail.aruba.it/new/styles-OVNL66GE.css",
+    "stylesheet_11.css": "https://webmail.aruba.it/new/assets/css/loading.css",
+    "images/21.svg": "https://webmail.aruba.it/new/assets/brand/domini/logo.svg",
+    "images/20.png": "https://webmail.aruba.it/new/assets/brand/domini/favicon-96x96.png",
+    "frames/0/": "https://webmail.aruba.it/new/assets/login/left_block.html",
+    "frames/1/": "https://consentcdn.cookiebot.eu/sdk/bc-v4.min.html"
+  }
+}

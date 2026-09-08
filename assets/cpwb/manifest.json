@@ -1,0 +1,25 @@
+{
+  "originalUrl": "https://cs310.bluehost.com:2096/",
+  "title": "Webmail Login",
+  "archiveTime": "2026-07-25T16:54:24.091Z",
+  "indexFilename": "index.html",
+  "resources": {
+    "fonts/2.woff": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff",
+    "fonts/27.woff": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff",
+    "fonts/32.woff": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff",
+    "fonts/12.woff": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Italic-webfont.woff",
+    "fonts/37.woff": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.woff",
+    "fonts/7.woff": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-BoldItalic-webfont.woff",
+    "fonts/17.woff": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Light-webfont.woff",
+    "fonts/22.woff": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-LightItalic-webfont.woff",
+    "stylesheet_0.css": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1759342925/unprotected/cpanel/style_v2_optimized.css",
+    "stylesheet_1.css": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css",
+    "images/40.png": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1739247148/unprotected/cpanel/images/notice-error.png",
+    "images/41.png": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1739247148/unprotected/cpanel/images/notice-info.png",
+    "images/42.png": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1739247148/unprotected/cpanel/images/notice-success.png",
+    "images/43.png": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1739247148/unprotected/cpanel/images/warning.png",
+    "images/44.png": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1739247148/unprotected/cpanel/images/icon-username.png",
+    "images/45.png": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1739247148/unprotected/cpanel/images/icon-password.png",
+    "images/46.svg": "https://cs310.bluehost.com:2096/cPanel_magic_revision_1460573724/unprotected/cpanel/images/webmail-logo.svg"
+  }
+}
