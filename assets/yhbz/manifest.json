@@ -1,0 +1,14 @@
+{
+  "originalUrl": "https://mail.turbify.com/login",
+  "title": "Bizmail Login",
+  "archiveTime": "2026-07-23T21:57:11.107Z",
+  "indexFilename": "index.html",
+  "resources": {
+    "fonts/0.woff2": "https://mail.turbify.com/_next/static/media/f7aa21714c1c53f8-s.p.e3544bb0.woff2",
+    "stylesheet_0.css": "https://mail.turbify.com/_next/static/chunks/83981900861062c3.css",
+    "images/4.svg": "https://mail.turbify.com/_next/static/media/Logo.2a9b0435.svg",
+    "images/5.svg": "https://mail.turbify.com/_next/static/media/HidePassword.cd41320a.svg",
+    "images/2.ico": "https://mail.turbify.com/favicon.ico?favicon.0b3bf435.ico",
+    "images/3.webp": "https://mail.turbify.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flanding-image-turbify.5de23bf9.webp&w=1920&q=75"
+  }
+}
